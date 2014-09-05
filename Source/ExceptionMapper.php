@@ -60,7 +60,7 @@ $GLOBALS['statusCodeDictionaryFinder']=100;
  * CatchXml  class is used to set information to object of this class.
  *
  * @author AFour Technologies
- * @version 0.0.0.9
+ * @version 1.0.0.0
  * @package AFourTech.ExceptionMapper
  */
 // Create catchXML class to store the exception info in object

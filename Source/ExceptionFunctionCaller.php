@@ -50,7 +50,7 @@ function method3(Mapper $objMapper)
 }
 // Create object of Mapper class
 $objMapper=new Mapper();
-$GLOBALS['xmlFilePath']="D:\Sudhir\Working Directory\Eclips Project\XML\ExceptionMapping.xml";
+//$GLOBALS['xmlFilePath']="D:\Sudhir\Working Directory\Eclips Project\XML\ExceptionMapping.xml";
 method1($objMapper);
 
 ?>
